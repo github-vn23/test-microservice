@@ -1,4 +1,4 @@
 FROM openjdk:17
 EXPOSE 9999
 ADD target/test-microservice.jar test-microservice.jar
-ENTRY POINT ["java","-jar","/test-microservice.jar"]
+ENTRYPOINT ["java","-jar","/test-microservice.jar"]

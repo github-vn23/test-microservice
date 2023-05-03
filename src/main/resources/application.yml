@@ -6,6 +6,6 @@ eureka:
    register-with-eureka: false
    fetch-registry: false
  
- spring:
+spring:
   application:
    name: DEPARTMENT-SERVICE

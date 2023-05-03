@@ -86,6 +86,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>test-microservice</finalName>
 	</build>
 
 </project>
